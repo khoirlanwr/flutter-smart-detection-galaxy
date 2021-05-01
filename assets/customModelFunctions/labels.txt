@@ -1,0 +1,5 @@
+0 buku
+1 penghapus
+2 pensil
+3 penggaris
+4 meja

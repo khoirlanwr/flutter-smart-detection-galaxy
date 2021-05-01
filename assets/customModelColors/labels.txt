@@ -1,0 +1,9 @@
+0 serbuk-jagung-merah
+1 serbuk-jagung-biru
+2 serbuk-jagung-hijau
+3 serbuk-jagung-hitam
+4 serbuk-jagung-kuning
+5 serbuk-jagung-ungu
+6 serbuk-jagung-coklat
+7 serbuk-jagung-orange
+8 serbuk-jagung-putih

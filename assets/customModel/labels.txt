@@ -1,0 +1,7 @@
+0 bola-futsal
+1 buku
+2 meja
+3 jam-dinding
+4 kursi
+5 bulpen
+6 penggaris
